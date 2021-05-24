@@ -4,7 +4,7 @@ Simple Rock- Paper- Scissor game.
 
 ## Sample images
 
-![Alt text](https://github.com/PradyumanThakur/rock_paper_scissors_withtkinter/blob/main/image/game_window.PNG?raw=true) ![Alt text](https://github.com/PradyumanThakur/rock_paper_scissors_withtkinter/blob/main/image/stats_window.PNG?raw=true)
+![Alt text](https://github.com/PradyumanThakur/rock_paper_scissors_withtkinter/blob/main/image/game_window.PNG?raw=true)   ![Alt text](https://github.com/PradyumanThakur/rock_paper_scissors_withtkinter/blob/main/image/stats_window.PNG?raw=true)
 
 
 
