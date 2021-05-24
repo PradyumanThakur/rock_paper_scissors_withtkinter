@@ -5,7 +5,7 @@ from random import choice
 root = Tk()
 root.title("Rock- Paper- Scissors")
 root.geometry("260x300")
-root.iconbitmap("images/rpc.ico")
+root.iconbitmap("image/rps.ico")
 root.configure(bg="#1f211f")
 
 your_choice = ""
